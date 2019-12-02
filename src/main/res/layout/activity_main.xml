@@ -60,6 +60,16 @@
         />
 
     <EditText
+        android:id="@+id/txt_grossincome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_Gender"
+        android:hint="Enter Gross Income"
+        android:textSize="18.5sp"
+        android:layout_marginTop="10dp"
+        />
+
+    <EditText
         android:id="@+id/txt_RRSP"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
